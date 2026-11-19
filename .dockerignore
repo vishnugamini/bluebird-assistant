@@ -1,0 +1,11 @@
+.git
+.runtime
+.venv
+.uv-cache
+.env*
+secrets
+state
+evidence
+dist
+tests
+__pycache__

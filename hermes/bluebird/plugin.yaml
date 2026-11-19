@@ -1,0 +1,14 @@
+name: bluebird
+version: 0.1.0
+description: Calendar, test email, weather, web search, memory, and owner approvals.
+kind: standalone
+provides_tools:
+  - a3_calendar
+  - a3_email_read
+  - a3_email_draft
+  - a3_gap_finder
+  - a3_weather
+  - a3_web_search
+  - a3_remember
+provides_hooks:
+  - pre_llm_call

@@ -1,0 +1,13 @@
+.gcloudignore
+.git
+.runtime/
+.venv/
+.uv-cache/
+.env*
+secrets/
+state/
+evidence/
+dist/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
